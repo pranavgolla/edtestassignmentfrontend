@@ -1,0 +1,22 @@
+ul{
+    list-style: none;
+}
+.submitbutton{
+    background-color: #0171d3;
+    border-width: 0px;
+    width: auto;
+    padding: 5px;
+    border-radius: 6px;
+    color: #ffffff;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.date1{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.dsubmitbutton{
+    display: flex;
+    justify-content: center;
+}

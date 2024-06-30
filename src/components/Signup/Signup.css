@@ -1,0 +1,88 @@
+.d1{
+    background-color:#4070f4 ;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    margin: 0px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.d2{
+    background-color: #ffff;
+    border-style: solid;
+    border-width: 0px;
+    padding: 10px;
+    border-radius: 13px;
+    
+
+}
+input{
+    border-color: #eeeeee;
+    border-radius: 3px;
+    margin-left: 15px;
+    padding: 5px;
+}
+label{
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    background-color: #0171d3;
+    border-width: 0px;
+    width: 100%;
+    padding: 5px;
+    border-radius: 6px;
+    color: #ffffff;
+    /* margin-bottom: 10px; */
+}
+a{
+    color: #ffffff; 
+    text-decoration: none;
+    position: relative;
+
+}
+span{
+    color: #0171d3;
+    cursor: pointer;
+    
+}
+p{
+    text-align: center;
+}
+form button a span{
+    color: #4267b2;
+    position: absolute;
+    left: 10px;
+    border-style: solid;
+    border-width: 0px;
+    border-color: white;
+    background-color: white;
+    border-radius: 10px;
+    width: 15px;  
+    padding: 2px;
+    font-weight: bold;
+}
+.facebook{
+    background-color: #0171d3;
+    border-width: 0px;
+    width: 100%;
+    padding: 5px;
+    border-radius: 6px;
+    color: #ffffff;
+    position: relative;
+    margin-bottom: 10px;
+}
+.google{
+    background-color: white;
+    color: #8e8989;
+    font-weight: bold;
+    border-color: #dedede;
+    border-right-color: #dedede;
+    border-bottom-color: #dedede;
+    border-width: 2px;
+    
+}
